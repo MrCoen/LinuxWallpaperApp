@@ -1,15 +1,3 @@
-from github import Github
-
-# Your GitHub personal access token
-# Replace with your actual token
-access_token = 'YOUR_ACCESS_TOKEN'
-
-# Repository details
-owner = 'your-username'
-repo_name = 'your-repository'
-
-# README content
-README_CONTENT = """
 # Quote and System Information Display
 
 This is a Python application that displays a random quote, current time, and battery information on your desktop. It provides a minimalistic and customizable way to keep track of time and battery status while being inspired by random quotes.
